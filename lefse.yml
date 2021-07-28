@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+  - r
+  - bioconda
+  - defaults
+dependencies:
+  - r-vegan
+  - r-ccagfa
