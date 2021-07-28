@@ -1,0 +1,53 @@
+phylum_class	order	Family	feature	core_only	level	label
+Actinobacteriota;Acidimicrobiia	Microtrichales	NA	Microtrichales		order	Microtrichales
+Actinobacteriota;Acidimicrobiia	Microtrichales	Microtrichaceae	904c34		ASV	Microtrichaceae 904c34
+Bacteroidetes;Flavobacteriia	Flavobacteriales	NA	Flavobacteriales		order	Flavobacteriales
+Bacteroidetes;Flavobacteriia	Flavobacteriales	Flavobacteriaceae	a48a92		ASV	Koridia a48a92
+Bacteroidetes;Flavobacteriia	Flavobacteriales	Flavobacteriaceae	dc7046		ASV	Koridia dc7046
+Bacteroidetes;Flavobacteriia	Flavobacteriales	Cryomorphaceae	36aab1d0	yes	ASV	Cryomorpha 36aab1d0
+Bacteroidetes;Flavobacteriia	Flavobacteriales	Flavobacteriaceae	8c1c92a2	yes	ASV	Aureicoccus marinus 8c1c92a2
+Bacteroidetes;Flavobacteriia	Flavobacteriales	Flavobacteriaceae	586c2be5	yes	ASV	Muricauda 586c2be5
+Proteobacteria;Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	29af575b	yes	ASV	Cellvibrionaceae 29af575b
+Bacteroidetes;Saprospiria	Saprospirales	Saprospiraceae	9ecde7		ASV	Saprospiraceae 9ecde7
+Bacteroidetes;Saprospiria	Saprospirales	Saprospiraceae	a2fde72b		ASV	Saprospiraceae a2fde72b
+Bacteroidetes;Saprospiria	Saprospirales	Haliscomenobacteraceae  	0a894ec0	yes	ASV	Portibacter 0a894ec0
+Bacteroidota;Bacteroidia	Sphingobacteriales	NS11-12 marine group	NS11-12 marine group		family	NS11-12 marine group
+Bacteroidota;Bacteroidia	Cytophagales	NA	Cytophagales		order	Cytophagales
+Bacteroidota;Bacteroidia	Cytophagales	Reichenbachiellaceae	c9834daa	yes	ASV	Ekhidna c9834daa
+Chloroflexi;Anaerolineae	SBR1031	NA	SBR1031		order	SBR1031
+Chloroflexi;Anaerolineae	SBR1031	A4b	18a6b6		ASV	A4b  18a6b6
+Chloroflexi;Anaerolineae	SBR1031	A4b	e6daab		ASV	A4b e6daab
+Chloroflexi;Anaerolineae	SBR1031	A4b	f35073		ASV	A4b  f35073
+Proteobacteria;Alphaproteobacteria	Rhizobiales	NA	Rhizobiales		order	Rhizobiales
+Cyanobacteria;Cyanobacteriia	Cyanobacteriales	NA	Cyanobacteriales		order	Cyanobacteriales
+Cyanobacteria;Cyanobacteriia	Cyanobacteriales	Rivulariaceae	8c13b7		ASV	Rivularia-PCC-7166 8c13b7
+Cyanobacteria;Cyanobacteriia	Cyanobacteriales	Oscillatoriaceae	bc8953		ASV	Lyngbya-PCC-7419 bc8953
+Cyanobacteria;Cyanobacteriia	Cyanobacteriales	Pseudanabaenaceae	2f6e75		ASV	Pseudanabaena 2f6e75
+Cyanobacteria;Oscillatoriophycideae	Oscillatoriales	Phormidiaceae	Phormidiaceae		family	Phormidiaceae
+Cyanobacteria;Vampirivibrionia	Caenarcaniphilales	NA	Caenarcaniphilales		order	Caenarcaniphilales
+Myxococcota;Myxococcia	Myxococcales	NA	Myxococcales		order	Myxococcales
+Myxococcota;Myxococcia	Myxococcales	P308-42	da0511		ASV	P308-42 da0511
+Planctomycetes;BD7-11	a BD7-11 order	NA	a BD7-11 order		order	a BD7-11 order
+Planctomycetota;Planctomycetes	Planctomycetales	Rubinisphaeraceae	Rubinisphaeraceae		family	Rubinisphaeraceae
+Planctomycetota;Planctomycetes	OM190	NA	c9ac2d		ASV	OM190 c9ac2d
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	NA	Rhodobacterales		order	Rhodobacterales
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	71a746		ASV	Rhodobacteraceae 71a746
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	e52a6be3	yes	ASV	Hyphomonadaceae e52a6be3
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	b59d4a		ASV	Rhodobacteraceae b59d4a
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	e3d042		ASV	Rhodobacteraceae e3d042
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	f5447e1f	yes	ASV	Rhodobacteraceae f5447e1f
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	e8828b7a	yes	ASV	Rhodobacteraceae e8828b7a
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	99b57963		ASV	Rhodobacteraceae 99b57963
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	4a4f4277	yes	ASV	Rhodobacteraceae 4a4f4277
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	49654f1c	yes	ASV	Rhodobacteraceae 49654f1c
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	4522cf99	yes	ASV	Rhodobacteraceae 4522cf99
+Proteobacteria;Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	00449447	yes	ASV	Limibaculum 00449447
+Proteobacteria;Alphaproteobacteria	Rhizobiales	Methyloligellaceae	ee5ce9		ASV	Methyloligellaceae ee5ce9
+Planctomycetota;Planctomycetes	OM190	NA	OM190		order	OM190
+Proteobacteria;Alphaproteobacteria	Unknown 	NA	485c51de	yes	ASV	Alphaproteobacteria 485c51de
+Proteobacteria;Gammaproteobacteria	Cellvibrionales	NA	Cellvibrionales		order	Cellvibrionales
+Proteobacteria;Gammaproteobacteria	Chromatiales	Granulosicoccaceae	9d7587		ASV	Granulosicoccus 9d7587
+Proteobacteria;Gammaproteobacteria	Alteromonadales	NA	Alteromonadales		order	Alteromonadales
+Proteobacteria;Gammaproteobacteria	JTB23	NA	JTB23		order	JTB23
+Proteobacteria;Gammaproteobacteria	Arenicellales	Arenicellaceae	60146e23	yes	ASV	Arenicellaceae 60146e23
+Proteobacteria;Gammaproteobacteria	Incertae sedis	NA	87677cfb	yes	ASV	Gammaproteobacteria Incertae sedis 87677cfb
