@@ -1,6 +1,6 @@
 # Szitenberg2021_SeaGrass  
   
-[![DOI](https://zenodo.org/badge/TBD.svg)](https://zenodo.org/badge/latestdoi/TBD)  
+[![DOI](https://zenodo.org/badge/390300053.svg)](https://zenodo.org/badge/latestdoi/390300053)  
 This repository contains the data and analysis carried out for the publication:  
 ## Mesocosm study of thermal and nutrient stress effects on the phenology and leaf epiphytes of the tropical seagrass *Halophila stipulacea*  
   
