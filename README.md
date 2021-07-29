@@ -9,8 +9,8 @@ By:
 
 See [preprint](https://biorxiv.org/cgi/content/short/TBD)  
   
-Preprocessing: `PreProcess16sData.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/master/PreProcess16sData.ipynb)  
-Diversity analyses: `Diversity.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/master/Diversity.ipynb)   
-Core microbiota: `Core_microbiota.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/master/Core_microbiota.ipynb)    
-ASV phylogenies: `Phylogenetic_trees.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/master/Phylogenetic_trees.ipynb)
+Preprocessing: `PreProcess16sData.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/main/PreProcess16sData.ipynb)  
+Diversity analyses: `Diversity.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/main/Diversity.ipynb)   
+Core microbiota: `Core_microbiota.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/main/Core_microbiota.ipynb)    
+ASV phylogenies: `Phylogenetic_trees.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/main/Phylogenetic_trees.ipynb)
 
