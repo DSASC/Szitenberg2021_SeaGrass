@@ -2,7 +2,7 @@
   
 [![DOI](https://zenodo.org/badge/TBD.svg)](https://zenodo.org/badge/latestdoi/TBD)  
 This repository contains the data and analysis carried out for the publication:  
-## Mesocosm study of thermal and nutrient stress effects on the phenology and leaf endophytes of the tropical seagrass *Halophila stipulacea*  
+## Mesocosm study of thermal and nutrient stress effects on the phenology and leaf epiphytes of the tropical seagrass *Halophila stipulacea*  
   
 By:  
 **Amir Szitenberg, Pedro Beca-Carretero, Tomas Azcarate-Garcia, Timur Yergaliyev, Rivka Alexander-Shani, Gidon Winters**
