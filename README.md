@@ -7,7 +7,7 @@ This repository contains the data and analysis carried out for the publication:
 By:  
 **Amir Szitenberg, Pedro Beca-Carretero, Tomas Azcarate-Garcia, Timur Yergaliyev, Rivka Alexander-Shani, Gidon Winters**
 
-See [preprint](https://biorxiv.org/cgi/content/short/TBD)  
+See [preprint](https://www.biorxiv.org/content/10.1101/2021.08.21.457214v1.full)  
   
 Preprocessing: `PreProcess16sData.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/main/PreProcess16sData.ipynb)  
 Diversity analyses: `Diversity.ipynb` [nbviewer](https://nbviewer.jupyter.org/github/DSASC/Szitenberg2021_SeaGrass/blob/main/Diversity.ipynb)   
